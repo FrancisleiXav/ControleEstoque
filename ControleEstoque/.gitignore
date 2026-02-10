@@ -1,0 +1,69 @@
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Build Results
+# =========================
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
+[Bb]uild/
+
+# =========================
+# .NET Core
+# =========================
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# =========================
+# NuGet
+# =========================
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS
+# =========================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+*.swp
+
+# =========================
+# Test results
+# =========================
+TestResults/
+coverage/
+coverage.cobertura.xml
+
+# =========================
+# Others
+# =========================
+*.tmp
+*.temp
+*.bak
+*.cache
